@@ -12,7 +12,7 @@ http://www.consatec.com/EAM/EASE/
 
 Observamos que el esqueleto que entrega Archi, es básicamente vistas (Views) y la información de los objetos que contienen los modelos de hechos con Archi (Model Content).
 
-FASE 1: Poder tomar el index.html para modificarlo con nuestro propio árbol de navegación y agregar el archivo es.css (etiquetas)
+FASE 1: Poder tomar el index.html para modificarlo con nuestro propio árbol de navegación, respetando la parte de los modelos de arquitectura empresarial y agregar al archivo en.css etiquetas de nuestro árbol.
 Además de poder hacer cambios de colores y logo.
 
 
